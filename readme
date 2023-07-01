@@ -1,0 +1,11 @@
+clone the application to local server and folow below steps to execute the Card-Listing project
+
+1. To install node modules execute this code -> 
+npm i
+(or) npm install
+
+2. run the data .json file by using below code ->
+npx json-server --watch data.json --port 4000
+
+3. run the project by executing below mentioned code ->
+npm start
